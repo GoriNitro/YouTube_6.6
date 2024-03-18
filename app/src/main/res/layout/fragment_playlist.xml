@@ -31,6 +31,7 @@
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rv_videos"
+            tools:listitem="@layout/item_video"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
